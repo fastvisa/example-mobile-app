@@ -1,11 +1,19 @@
 {
   "expo": {
     "name": "Test App",
-    "slug": "Test App of FastVisa Public API",
+    "slug": "test-app",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "us.fastvisa.publicapi.example",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "us.fastvisa.publicapi.example",
+      "versionCode": 1
+    }
   },
   "name": "Test App of FastVisa Public API"
 }
