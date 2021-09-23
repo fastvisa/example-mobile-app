@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Test App",
+    "slug": "Test App of FastVisa Public API",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Test App of FastVisa Public API"
+}
